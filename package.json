@@ -6,7 +6,7 @@
     "repository": "https://git.tools.nykredit.it/projects/DEV/repos/bower-onl-common",
     "devDependencies": {
         "gulp": "3.9.1",
-        "gulp-angular-library-builder": "c:/projects/gulp-angular-library-builder"
+        "gulp-angular-library-builder": "glumsoe/gulp-angular-library-builder#serve-dev"
     },
     "readme": "README.md"
 }
